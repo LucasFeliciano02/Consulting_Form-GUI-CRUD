@@ -33,7 +33,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• A ideia do projeto é fazer um formulario como o de um consultório médico, mas com banco de dados local
+• A ideia do projeto é ser um formulario como o de um consultório médico, mas com banco de dados local
 ```
 
 ## :sparkles: Funcionalidades ##
