@@ -1,6 +1,5 @@
  <h4 align="center"> 
-
-	🚧  Projeto Formulario de Consultorio 🚀 Em construção...  🚧
+	🚧  Projeto Formulario de Consultório 🚀 Em construção...  🚧
 </h4> 
 
 <hr>
@@ -22,7 +21,7 @@
  </div>
  
 
- <h1 align="center">Formulario de Consultorio</h1>
+ <h1 align="center">Formulario de Consultório</h1>
  
  
 <p align="center">
