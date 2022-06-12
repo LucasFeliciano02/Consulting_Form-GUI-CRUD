@@ -33,8 +33,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Livraria pessoal feita com o intuito de alocar livros pessoais com seus registros e controle de estoque
-• É comum a empresta de livros aqui em casa, portanto resolvi fazer esse app para minha mãe ter controle do que sai e do que entra
+• A ideia do projeto é fazer um formulario como o de um consultório médico, mas com banco de dados local
 ```
 
 ## :sparkles: Funcionalidades ##
