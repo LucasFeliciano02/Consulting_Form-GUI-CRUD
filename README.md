@@ -47,8 +47,8 @@
 
 
 :heavy_check_mark: Campos de entrada de cpf e telefone tem formatação automática de pontos, traços, parenteses e só aceita números;\
-:heavy_check_mark: Banco de dados local;\
-:heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho utilizando o auto-py-to-exe - PyPI:\
+:heavy_check_mark: Cadastrar o cliente, colocar dados seus pessoais, data da consulta, hora, especialidade, e profissional;\
+:heavy_check_mark: Banco de dados local:
 
 ## :rocket: Tecnologias ##
  
