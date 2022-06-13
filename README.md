@@ -47,7 +47,7 @@
 
 
 :heavy_check_mark: Campos de entrada de cpf e telefone tem formatação automática de pontos, traços, parenteses e só aceita números;\
-:heavy_check_mark: Possibilidade de colocar o nome da pessoa que pegou o livro emprestado, assim como a data de entrada e a de devolução;\
+:heavy_check_mark: Banco de dados local;\
 :heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho utilizando o auto-py-to-exe - PyPI:\
 
 ## :rocket: Tecnologias ##
