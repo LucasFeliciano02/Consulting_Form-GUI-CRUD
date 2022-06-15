@@ -47,7 +47,8 @@
 
 
 :heavy_check_mark: Campos de entrada de cpf e telefone tem formatação automática de pontos, traços, parenteses e só aceita números;\
-:heavy_check_mark: Cadastrar o cliente, colocar dados seus pessoais, data da consulta, hora, especialidade, e profissional;\
+:heavy_check_mark: Cadastrar o cliente, colocar seus dados pessoais, data da consulta, hora, especialidade, e profissional;\
+:heavy_check_mark: Ver dados no banco de dados;\
 :heavy_check_mark: Banco de dados local:
 
 ## :rocket: Tecnologias ##
