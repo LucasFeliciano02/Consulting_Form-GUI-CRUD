@@ -41,7 +41,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• A ideia do projeto é ser um formulario como o de um consultório médico, em que há o cadastro do cliente e controle disso por parte do admin.
+• A ideia do projeto é ser um formulario como o de um consultório médico, em que há o cadastro do cliente e controle por parte do admin.
 ```
 
 ## :sparkles: Funcionalidades ##
